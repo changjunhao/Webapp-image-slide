@@ -15,12 +15,6 @@ li {
 	overflow: hidden;
 	height: 100%;
 }
-/*居中方式
-* 1.line-height=height,vertical-align: middle;
-* 2.display:table-cell,vertical-align: middle;
-* 3.display: -webkit-box;-webkit-box-align: center;-webkit-box-pack: center;
-*/
-
 li {
 	display: -webkit-box;
 	-webkit-box-align: center;
