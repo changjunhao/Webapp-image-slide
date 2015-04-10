@@ -1,0 +1,29 @@
+[{
+	"height": 950,
+	"width": 800,
+	"img": "img/1.jpg"
+}, {
+	"height": 1187,
+	"width": 900,
+	"img": "img/2.jpg"
+}, {
+	"height": 766,
+	"width": 980,
+	"img": "img/3.jpg"
+}, {
+	"height": 754,
+	"width": 980,
+	"img": "img/4.jpg"
+}, {
+	"height": 493,
+	"img": "img/5.jpg",
+	"width": 750
+}, {
+	"height": 500,
+	"img": "img/6.jpg",
+	"width": 750
+}, {
+	"height": 600,
+	"img": "img/7.jpg",
+	"width": 400
+}]

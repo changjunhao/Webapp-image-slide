@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #333;
+	overflow: hidden;
+}
+#canvas {
+	overflow: hidden;
+}
+ul,
+li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 100%;
+}
+/*居中方式
+* 1.line-height=height,vertical-align: middle;
+* 2.display:table-cell,vertical-align: middle;
+* 3.display: -webkit-box;-webkit-box-align: center;-webkit-box-pack: center;
+*/
+
+li {
+	display: -webkit-box;
+	-webkit-box-align: center;
+	-webkit-box-pack: center;
+	-webkit-backface-visibility: hidden;
+	position: absolute;
+}
