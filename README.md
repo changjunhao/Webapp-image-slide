@@ -1,4 +1,4 @@
-# Webapp-image-slider
+# Webapp-image-slide
 Web App下图片滑动组件
 #演示地址（使用移动设备浏览）：
 <a href="http://ifable.cn/works/new/slide/" target="_blank">ifable.cn/works/new/slide/</a>
