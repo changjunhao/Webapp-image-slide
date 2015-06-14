@@ -1,5 +1,7 @@
 # Webapp-image-slider
 Web App下图片滑动组件
+#演示地址（使用移动设备浏览）：
+<a href="http://ifable.cn/works/new/slide/" target="_blank">ifable.cn/works/new/slide/</a>
 #用法
 <p>1.将图片宽、高、URL写入json文件</p>
 <p>格式：</p>
